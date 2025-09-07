@@ -1,0 +1,126 @@
+[
+  {
+    "id": "karya7",
+    "title": "Cikole Taman Mili-Mili",
+    "desc": "An outdoor interactive light installation using arduino and addressable led strip where people tapping the podium-like structure and the light will go upward as we hit harder."
+  },
+  {
+    "id": "karya2",
+    "title": "Epson Table Plate",
+    "desc": "An event held by Epson Indonesia. When we place the plate at certain point on the table it will trigger a 3D content projected on the table, using kinect sensor and TouchDesigner via Processing."
+  },
+  {
+    "id": "karya3",
+    "title": "Jakarta Fair 2024",
+    "desc": "An event at Jakarta Fair 2024 where we use sky wall material as the facade and hokuyo for the sensor with TouchDesigner for programming and Resolume Arena for projection mapping. When visitor touch the wall it will trigger a custom particle."
+  },
+  {
+    "id": "karya4",
+    "title": "Jakarta Light Festival 2024",
+    "desc": "An outdoor installation event at Jakarta Light Festival 2024 in Kota Tua, Jakarta. Using hokuyo sensor and TouchDesigner. There are many moving shapes of images on the projected floor, when visitor stepping on the images it will immediately move away randomly. "
+  },
+  {
+    "id": "karya5",
+    "title": "@America",
+    "desc": "A permanent installation at the entrance of @america in Pacific Place mall using web camera and TouchDesigner and epson projector. When visitor walk in the entrance it will change the black-and-white video contents into a colourful video contents. "
+  },
+  {
+    "id": "karya6",
+    "title": "Al-Jabar",
+    "desc": "A permanent installation at Al-Jabar Mosque where we use dacron and addressable led strip controlled by arduino below the glass floor."
+  },
+
+  
+  {
+    "id": "karya1",
+    "title": "BXSea-Wave",
+    "desc": "A permanent installation inside BXSea mall using hokuyo sensor and TouchDesigner, Unreal Engine 5.2 and Resolume Arena. It is a real time rendering and mapping. Whenever a visitor enter the mapping area it will leave a temporary foot print and also will splashing the water content as if we walks in the real water or beach and it will also trigger the crabs to moves away randomly."
+  },
+  {
+    "id": "karya8",
+    "title": "ITB Light Fest",
+    "desc": "An indoor installation event at ITB Bandung using hokuyo sensor and TouchDesigner and Resolume Arena. When visitor walks near the projected ball it will trigger another content and also different sound."
+  },
+  {
+    "id": "karya9",
+    "title": "Kelana Kaia BXSea",
+    "desc": "A permanent installation at Kelana Kaia inside BXSea Mall using hokuyo sensor and TouchDesigner and Resolume Arena. When the visitor touch the wall it will trigger a custom particle."
+  },
+  {
+    "id": "karya10",
+    "title": "Photobooth",
+    "desc": "A permanent installation at Strada Coffee cafe and also at UNAIR Surabaya using touchscreen TV with TouchDesigner and web camera. When visitor take picture in front of the photobooth TV it will generate a QR code to download the photo into the visitor's phone."
+  },
+  {
+    "id": "karya11",
+    "title": "Tahura",
+    "desc": "A permanent light installation at Tahura Forest Bandung called Hutan Menyala. Using arduino to control the color of the addressable led strip."
+  },
+  {
+    "id": "karya12",
+    "title": "Wave of Tomorrow",
+    "desc": "An indoor installation event at Jakarta using Kinect and Processing and Resolume Arena. When visitor walks into the room it will generate a silhouette that reveal the background content. "
+  },
+  {
+    "id": "karya13",
+    "title": "Perpusnas 3D Holofan",
+    "desc": "A permanent installation at Perpustakaan Nasional Indonesia. It consist of 9 pieces of 3D holofan to form a single large 3D content."
+  },
+  {
+    "id": "karya14",
+    "title": "Perpusnas TV",
+    "desc": "A permanent installation at Perpustakaan Nasional Indonesia. It consist of about 10 different size and position of TV using Raspberry PI 3 for each of the contents."
+  },
+  {
+    "id": "karya15",
+    "title": "Kala Kini Nanti, PVJ",
+    "desc": "A permanent immersive installation at Paris Van Java mall Bandung called Kala Kini Nanti. Using hokuyo sensor and TouchDesigner and Resolume Arena. When visitor touch the wall it will generate a custom particles."
+  },
+  {
+    "id": "karya16",
+    "title": "Monas Interactive",
+    "desc": "An event held inside the Monas basement. Using kinect and Touchdesigner and Resolume Arena with holonet as the facade. When visitor walks in front of the holonet it will generate a custom particles."
+  },
+  {
+    "id": "karya17",
+    "title": "Interactive Book",
+    "desc": "A permanent installation at UNAIR Surabaya. Using leap motion and TouchDesigner and a book miniature as the facade. When visitor swipe their hand above the book it will change the content as if we open a physical book."
+  },
+  {
+    "id": "karya18",
+    "title": "Oppo Inno Day",
+    "desc": "An event held by Oppo at Pacific Place mall for their products promotion. Using kinect and TouchDesigner to detect person. When visitor near the facade it will change the content."
+  },
+  {
+    "id": "karya19",
+    "title": "Sound Interactive",
+    "desc": "An event installation held at Ancol, Jakarta called Hodge Podge. Using holonet as the facade, microphone as the sensor and TouchDesigner. When visitor screams on the microphone which hanging in front of the holonet it will change the spiral content."
+  },
+  {
+    "id": "karya20",
+    "title": "Nivea Interactive Wall",
+    "desc": "An indoor event held by Nivea at Ancol, Jakarta. Using hokuyo and Unity 3D and Resolume Arena. When visitor touch the facade it will generate a custom particle."
+  },
+  {
+    "id": "karya21",
+    "title": "Epson Glass Table",
+    "desc": "An event held by Epson Indonesia at Pacific Place Jakarta. Using Kinect and TouchDesigner and Resolume Arena. When visitor put the glass at certain point on the table it will change the content on the table."
+  },
+  {
+    "id": "karya22",
+    "title": "Jakarta Light Festival 2025",
+    "desc": "An outdoor installation event held at Kota Tua Jakarta. Using Arduino to control the color of addressable led strips."
+  },
+  {
+    "id": "karya23",
+    "title": "Meteor Gate",
+    "desc": "An outdoor installation event held at Tanah Lot Bali. Using Arduino to control the timing light of the led strips.."
+  },
+  {
+    "id": "karya24",
+    "title": "Roemah Coffee Interactive",
+    "desc": "An immersive installation event held by Roemah Coffee at JICC Senayan, Jakarta. Using Arduino, distance sensor, aroma diffuser and TouchDesigner and Resolume Arena. When visitor enter the immersive room it will trigger the content to play and in the middle of the content it will trigger the aroma diffuser to sprays the coffee aroma inside the room."
+  }
+]
+
+
